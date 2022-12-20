@@ -4,14 +4,14 @@
     "manifest": {
         "appName": {
             "short": "icebreakingBot",
-            "full": "Full name for icebreakingBot"
+            "full": "Icebreaking Bot"
         },
         "description": {
             "short": "Short description of icebreakingBot",
-            "full": "Full description of icebreakingBot"
+            "full": "Ice Fishing is a bot that breaks the ice so your team can dive below the surface of knowing one another."
         },
         "icons": {
-            "color": "resources/color.png",
+            "color": "resources/iceFishing.png",
             "outline": "resources/outline.png"
         }
     }

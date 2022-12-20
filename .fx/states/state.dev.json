@@ -1,0 +1,32 @@
+{
+    "solution": {
+        "provisionSucceeded": true,
+        "teamsAppTenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+        "subscriptionId": "49409aa8-3297-4f9c-8400-80a1fae76073",
+        "subscriptionName": "Outlook Web (Playground)",
+        "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+        "needCreateResourceGroup": false,
+        "resourceGroupName": "teamIcebreakerBot-playground",
+        "location": "westus",
+        "resourceNameSuffix": "3f4d71"
+    },
+    "fx-resource-appstudio": {
+        "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+        "teamsAppId": "3f10b8d0-528e-4ddc-817c-31def2871b6d"
+    },
+    "fx-resource-bot": {
+        "botId": "3265d6be-1759-4aa6-ae2b-566477fd08fd",
+        "botPassword": "{{fx-resource-bot.botPassword}}",
+        "sku": "B1",
+        "appName": "icebreakin4d85e4bot",
+        "domain": "icebreakin4d85e4bot.azurewebsites.net",
+        "appServicePlanName": "icebreakin4d85e4bot",
+        "functionAppResourceId": "/subscriptions/49409aa8-3297-4f9c-8400-80a1fae76073/resourceGroups/teamIcebreakerBot-playground/providers/Microsoft.Web/sites/icebreakin4d85e4bot",
+        "functionEndpoint": "https://icebreakin4d85e4bot.azurewebsites.net"
+    },
+    "fx-resource-identity": {
+        "identityName": "icebreakin4d85e4",
+        "identityResourceId": "/subscriptions/49409aa8-3297-4f9c-8400-80a1fae76073/resourceGroups/teamIcebreakerBot-playground/providers/Microsoft.ManagedIdentity/userAssignedIdentities/icebreakin4d85e4",
+        "identityClientId": "152abf57-3c8a-4cbd-82fa-d9a8a24bfe8a"
+    }
+}

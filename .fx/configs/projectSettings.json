@@ -12,7 +12,8 @@
                 "notification"
             ],
             "build": true,
-            "folder": "bot"
+            "folder": "bot",
+            "artifactFolder": "bot"
         },
         {
             "name": "bot-service",
